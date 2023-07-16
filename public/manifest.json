@@ -1,6 +1,6 @@
 {
-    "short_name":"Climate Sync",
-    "name": "Climate Sync",
+    "short_name":"Weather Lens",
+    "name": "Weather Lens",
     "icons": [
         {
             "src":"./images/logo.png",
